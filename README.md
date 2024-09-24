@@ -1,0 +1,1 @@
+Este proyecto tiene como fin enseñar el uso de Git y su respectiva conexión con GitHub mediante la creación de un script de manera colaborativa el cual debe leer una fuente de datos, realizar su respectivo preprocesado y mostrar una gráfica.
