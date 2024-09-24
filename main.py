@@ -1,5 +1,11 @@
 import pandas as pd
 
-datos = pd.read_csv("ventas.csv")
+# Carga de los datos
+
+# Eliminar valores nulos y convertir la columna cantidad en valores enteros
+
+# Filtrar solo productos
+
+# Realizar grafico de linea que nos muestre las ventas por año de los productos
 
 print(datos.head())
