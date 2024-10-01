@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Carga de los datos
-
+datos = pd.read_csv("ventas.csv", sep = ";")
 # Eliminar valores nulos y convertir la columna cantidad en valores enteros
 
 # Filtrar solo productos
